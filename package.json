@@ -1,0 +1,24 @@
+{
+  "name": "multiplayersnake",
+  "version": "1.0.0",
+  "description": "Multiplayer snake",
+  "main": "frontend/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianPaci/Multiplayersnake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianPaci/Multiplayersnake/issues"
+  },
+  "homepage": "https://github.com/FabianPaci/Multiplayersnake#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.1.1"
+  }
+}
